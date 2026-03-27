@@ -50,30 +50,30 @@ unsupervised_learning/
 
 ### Phase 1: Supervised Learning
 
-1 Linear Regression
-2 Logistic Regression
-3 K-Nearest Neighbors (KNN)
-4 Naive Bayes
-5 Decision Trees
-6 Random Forest
-7 Support Vector Machine (SVM)
+1. Linear Regression
+2. Logistic Regression
+3. K-Nearest Neighbors (KNN)
+4. Naive Bayes
+5. Decision Trees
+6. Random Forest
+7. Support Vector Machine (SVM)
 
 ---
 
 ### Phase 2: Unsupervised Learning
 
-1 K-Means Clustering
-2 Hierarchical Clustering
-3 DBSCAN
-4 Principal Component Analysis (PCA)
+1. K-Means Clustering
+2. Hierarchical Clustering
+3. DBSCAN
+4. Principal Component Analysis (PCA)
 
 ---
 
 ### Phase 3: Advanced Topics (Planned)
 
-1 Gradient Boosting
-2 XGBoost
-3 Feature Engineering
+1. Gradient Boosting
+2. XGBoost
+3. Feature Engineering
 4 Model Optimization Techniques
 
 ---
