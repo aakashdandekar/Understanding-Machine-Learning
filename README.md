@@ -74,7 +74,7 @@ unsupervised_learning/
 1. Gradient Boosting
 2. XGBoost
 3. Feature Engineering
-4 Model Optimization Techniques
+4. Model Optimization Techniques
 
 ---
 
