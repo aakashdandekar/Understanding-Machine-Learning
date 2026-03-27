@@ -8,10 +8,10 @@ This project focuses on building strong fundamentals through consistent practice
 
 ## Objective
 
-* Develop a clear understanding of machine learning models
-* Implement algorithms from scratch
-* Build consistency through a fixed weekly schedule
-* Create a well-organized public reference for ML concepts
+- Develop a clear understanding of machine learning models
+- Implement algorithms from scratch
+- Build consistency through a fixed weekly schedule
+- Create a well-organized public reference for ML concepts
 
 ---
 
@@ -19,13 +19,13 @@ This project focuses on building strong fundamentals through consistent practice
 
 This repository follows a weekend-based execution plan:
 
-* One model is added every Saturday and Sunday
-* Each notebook includes:
+- One model is added every Saturday and Sunday
+- Each notebook includes:
 
-  * Concept explanation
-  * Mathematical intuition
-  * Implementation from scratch
-  * Visualization where applicable
+  - Concept explanation
+  - Mathematical intuition
+  - Implementation from scratch
+  - Visualization where applicable
 
 ---
 
@@ -50,49 +50,46 @@ unsupervised_learning/
 
 ### Phase 1: Supervised Learning
 
-* Linear Regression
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Naive Bayes
-* Decision Trees
-* Random Forest
-* Support Vector Machine (SVM)
+1 Linear Regression
+2 Logistic Regression
+3 K-Nearest Neighbors (KNN)
+4 Naive Bayes
+5 Decision Trees
+6 Random Forest
+7 Support Vector Machine (SVM)
 
 ---
 
 ### Phase 2: Unsupervised Learning
 
-* K-Means Clustering
-* Hierarchical Clustering
-* DBSCAN
-* Principal Component Analysis (PCA)
+1 K-Means Clustering
+2 Hierarchical Clustering
+3 DBSCAN
+4 Principal Component Analysis (PCA)
 
 ---
 
 ### Phase 3: Advanced Topics (Planned)
 
-* Gradient Boosting
-* XGBoost
-* Feature Engineering
-* Model Optimization Techniques
+1 Gradient Boosting
+2 XGBoost
+3 Feature Engineering
+4 Model Optimization Techniques
 
 ---
 
 ## Tech Stack
 
-* Python
-* NumPy
-* Matplotlib
-* Jupyter Notebook
+Python, NumPy, Matplotlib, Jupyter Notebook
 
 ---
 
 ## Key Focus Areas
 
-* Understanding core concepts
-* Writing clean implementations
-* Visualizing model behavior
-* Evaluating strengths and limitations
+- Understanding core concepts
+- Writing clean implementations
+- Visualizing model behavior
+- Evaluating strengths and limitations
 
 ---
 
