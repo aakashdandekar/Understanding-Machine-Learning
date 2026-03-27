@@ -1,1 +1,1 @@
-# Understanging-Machine-Learning
+# Understanding-Machine-Learning
