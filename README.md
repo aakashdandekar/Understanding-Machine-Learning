@@ -48,33 +48,51 @@ unsupervised_learning/
 
 ## Learning Roadmap
 
-### Phase 1: Supervised Learning
+### Phase 1- Supervised Learning Models
 
 1. Linear Regression
-2. Logistic Regression
-3. K-Nearest Neighbors (KNN)
-4. Naive Bayes
-5. Decision Trees
-6. Random Forest
-7. Support Vector Machine (SVM)
+2. Polynomial Regression
+3. Decision Tree Regression
+4. Random Forest Regression
+5. Support Vector Regression
+6. Logistic Regression
+7. Support Vector Machine
+8. Decision Tree
+9. Random Forest
+10. Naive Bayes
+11. K-Nearest Neighbors
+12. Gradient Boosting
+13. Extreme Gradient Boosting
+14. Light Gradient Boosting Machine
 
----
 
-### Phase 2: Unsupervised Learning
+### Phase 2- Unsupervised Learning Models
 
 1. K-Means Clustering
-2. Hierarchical Clustering
-3. DBSCAN
-4. Principal Component Analysis (PCA)
+2. Density-Based Spatial Clustering of Applications with Noise
+3. Hierarchical Clustering
+4. Principal Component Analysis
+5. Linear Discriminant Analysis
+6. Isolation Forest
+7. Local Outlier Factor
+8. Apriori Algorithm
+9. Frequent Pattern Growth
+10. Equivalence Class Clustering and bottom-up Lattice Traversal
 
----
 
-### Phase 3: Advanced Topics (Planned)
+### Phase 3- Semi-Supervised Learning Models
 
-1. Gradient Boosting
-2. XGBoost
-3. Feature Engineering
-4. Model Optimization Techniques
+1. Generative Self-Supervised Learning
+
+
+### Phase 4- Reinforcement Learning Models
+
+1. Q-Learning
+2. Deep Q-Networks
+3. Policy Gradient
+4. Proximal Policy Optimization
+5. Actor-Critic
+6. Monte Carlo Tree Search
 
 ---
 
